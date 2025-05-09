@@ -1,0 +1,7 @@
+{
+  "plugins": {
+    "datasette-render-markdown": {
+      "columns": ["reference", "word_reference"]
+    }
+  }
+}
